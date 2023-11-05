@@ -1,0 +1,15 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-container {
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    background-image: linear-gradient(to right, #96c9ff, #ecb92e);
+}
